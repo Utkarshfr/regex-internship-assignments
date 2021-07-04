@@ -3,4 +3,5 @@
 - Assignment 1 - Pattern printing
 - Assignment 2
 - Assignment 3
+- Assignment 4 - Exploratory Data Analysis
 - Assignment 5
